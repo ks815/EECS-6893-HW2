@@ -1,0 +1,4 @@
+Ticker,Initial_Close,Latest_Close,Six_Month_Return_Pct,Annualized_Volatility_Pct,Max_Drawdown_Pct,MA_7,MA_20,Momentum,Risk_Level
+NVDA,182.08,237.47,30.42,38.79,-19.4,233.72,225.58,Bullish,Medium
+TSLA,343.25,377.81,10.07,49.36,-33.0,367.08,367.22,Neutral,High
+SPY,676.01,777.22,14.97,12.03,-4.49,770.23,766.46,Bullish,Low
